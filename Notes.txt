@@ -1,0 +1,31 @@
+<b>Bold</b>
+
+<i>Italic</i>
+
+<u>Underline</u>
+
+<insert>Insert</insert>
+
+<pre>PreFormat</pre>
+
+<strike>Strike</strike>
+
+<del>Delete</del>
+
+<strong>Strong</strong>
+
+<mark>Mark</mark>
+
+<blockquote>BlockQuote</blockquote>
+
+<q>DouteQuotes</q>
+
+<tt>TeleTypeText</tt>  // Take similar space for letters
+
+3x<sup>2</sup>
+
+H<sub>2</sub>O
+
+<small>Small</small>
+
+<hr> Horizontal Rule
